@@ -26,7 +26,7 @@ github_username:  Lightworker0923
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: caesarmadboy
-linkedin_username: www.linkedin.com/in/cesar-enrique-barboza-selix-299194264
+linkedin_username: https://www.linkedin.com/in/cesar-barboza-299194264/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -101,9 +101,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I'm a 21 yo guy passionate on everything around **Tech** and **Spiritual-Ethereal World** i love Pop music and I'm a big fan of women, love for cats and Old Money style.
+      I'm a 21*yo* guy passionate on everything around **Tech** and **Spiritual-Ethereal World** I love Pop music and I'm a big fan of women, love for cats and Old Money style, I feel better when people is around to speak about literally everithing, I love to learn anything from everything.
 
-      As a experienced assitant CS I improve my **Communication Skills** I love co-work with people seem as me to build cool stuff.
+      As a experienced assitant CS I improved my **Communication Skills** I love co-work with people seem as me to build cool stuff.
 
 # Footer
 footer_show_references: true
