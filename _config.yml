@@ -10,9 +10,9 @@ name: Cesar Enrique Barboza Selix
 title: Student at Informatics Engineering
 email: hoadelete@hotmail.com
 # email_title: Email (Email title override)
-#phone: 
+phone: +523313462954
 # phone_title: Phone (Phone title override)
-#website: 
+website: https://lightworker0923.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -26,7 +26,7 @@ github_username:  Lightworker0923
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: caesarmadboy
-#linkedin_username: jekyll
+linkedin_username: Cesar Barboza
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,7 +52,7 @@ instagram_username: caesarmadboy
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/ME.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey It's Caesar here! a little bit of myself is that I am a spiritual human looking for all of this stuff related to spirituality and ethereal stuff.
+  Hey It's Caesar here! a little bit of myself is that I am a spiritual human looking for all of this world related to spirituality and ethereal stuff, pasionated for technology.
 
 content:
   #- title: Projects # Title for the section
@@ -86,14 +86,14 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Customer Service Assistant specialized in bank credit cards databases, give calm to frustrated customers.
+          Customer Service Assistant specialized in bank credit cards databases, communication skills to get dynamic calls.
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Universidad De Guadalajara
         sub_title: Current Student at Informatics Engineering, ending on mid 2024.
-        caption: 2019 - 2024
+        caption: 2019 - 2024 \n**Current Schedule:**L-V 3PM - 9PM
         quote: >
           Data managment, included Data Bases, servers and a little bit of Develop on Java and Python.
         description: | # this will include new lines to allow paragraphs
