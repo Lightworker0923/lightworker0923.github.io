@@ -10,7 +10,7 @@ name: Cesar Enrique Barboza Selix
 title: Student at Informatics Engineering
 email: hoadelete@hotmail.com
 # email_title: Email (Email title override)
-phone: +523313462954
+phone: (+52)3313462954
 # phone_title: Phone (Phone title override)
 website: https://lightworker0923.github.io/
 # website_title: Web (Website title override)
@@ -26,7 +26,7 @@ github_username:  Lightworker0923
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: caesarmadboy
-linkedin_username: Cesar Barboza
+linkedin_username: www.linkedin.com/in/cesar-enrique-barboza-selix-299194264
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,7 +52,7 @@ linkedin_username: Cesar Barboza
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/ME.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey It's Caesar here! a little bit of myself is that I am a spiritual human looking for all of this world related to spirituality and ethereal stuff, pasionated for technology.
+  Hey It's Caesar here! a little bit of myself is that I am a spiritual human looking for all of this world related to spirituality and ethereal stuff, passionated for technology as well.
 
 content:
   #- title: Projects # Title for the section
@@ -93,17 +93,17 @@ content:
       - layout: top-right
         title: Universidad De Guadalajara
         sub_title: Current Student at Informatics Engineering, ending on mid 2024.
-        caption: 2019 - 2024 \n**Current Schedule:**L-V 3PM - 9PM
+        caption: Current Schedule L-V 3PM - 9PM (till december 2023)
         quote: >
-          Data managment, included Data Bases, servers and a little bit of Develop on Java and Python.
+          Data managment, included Data Bases, servers, web services and a little bit of Develop on Java and Python.
         description: | # this will include new lines to allow paragraphs
           Jr. developer on data managment mentioned previosly.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      I'm a 21 yo guy passionate on everything around **Tech** and **Spiritual-Ethereal World** i love Pop music and I'm a big fan of women, love for cats and Old Money style.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      As a experienced assitant CS I improve my **Communication Skills** I love co-work with people seem as me to build cool stuff.
 
 # Footer
 footer_show_references: true
