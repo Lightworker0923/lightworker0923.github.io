@@ -63,6 +63,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: White Belt
         sub_title: By Lean & Six Sigma
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Microsoft Technology for Productivity
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
