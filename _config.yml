@@ -52,16 +52,16 @@ linkedin_username: https://www.linkedin.com/in/cesar-barboza-299194264/
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/ME.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey It's Caesar here! a little bit of myself is that I am a spiritual human looking for all of this world related to spirituality and ethereal stuff, passionated for technology as well.
+  Hey there It's Caesar here! a little bit of myself is that I am a future kind of software engineer who loves learn and share knoledgments with others to build cool stuff that wants to mark and put my grain sand in software companies to grow up as society and help others in their needs and provide them tranquility and comfort as empatethic and helper human I am. I'm still training myself on software area looking passionately to give my best
 
 content:
-  #- title: Projects # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-      #- layout: left
-        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  - title: Certifications
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        #title: Project name
+        title: White Belt
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -86,7 +86,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Customer Service Assistant specialized in bank credit cards databases, communication skills to get dynamic calls.
+          Customer Service Assistant specialized in bank credit cards databases, communication skills and English level were highly improved, I got acquainted with some data systems.
   - title: Education
     layout: list
     content:
@@ -101,9 +101,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I'm a 21*yo* guy passionate on everything around **Tech** and **Spiritual-Ethereal World** I love Pop music and I'm a big fan of women, love for cats and Old Money style, I feel better when people is around to speak about literally everything, I love to learn anything from everyone and every experience I got.
+      I'm a 21*yo* guy passionate on everything around getting **Knowledgment** I enjoy to draw, I went to a drawing school several years ago, I like to write about anything I'm a god editor and argumentator, I am a big fan of women, I feel better when people is around to speak about literally everything, I love to learn anything from everyone and every experience I got.
 
-      As a experienced assitant CS I improved my **Communication Skills** I love co-work with people who seem like me to build cool stuff.
+      I love co-work with people who seem like me to build cool stuff.
 
 # Footer
 footer_show_references: true
