@@ -78,7 +78,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title: Teleperformance
         sub_title: Assitant on Customer Service
         caption: November 2020 - December 2021
