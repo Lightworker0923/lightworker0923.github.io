@@ -66,7 +66,7 @@ content:
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Customer Service Assistant specialized in bank credit cards databases, communication skills and English level were highly improved, I got acquainted with some data systems.
+          Customer Service Assistant specialized in bank databases, communication skills and English level were highly improved, I got acquainted with some servers and data web systems.
   - title: Certifications
     layout: list # Type of content section (list/text)
     content:
@@ -75,6 +75,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: White Belt
         sub_title: By Lean & Six Sigma
+        caption: 2023
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
