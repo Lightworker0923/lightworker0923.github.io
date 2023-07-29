@@ -26,7 +26,7 @@ github_username:  Lightworker0923
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: caesarmadboy
-linkedin_username: https://www.linkedin.com/in/cesar-barboza-299194264/
+linkedin_username: cesar-barboza-299194264
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -75,7 +75,6 @@ content:
                       # other value (or no value) means no border will be displayed
         title: White Belt
         sub_title: By Lean & Six Sigma
-        caption: 2023
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -86,6 +85,11 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Explorations into Mindfulness & Job Application Essentials
         sub_title: By IBM SkillsBuild
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: "Docker Essentials: A Developer Introduction, Data Privacy Fundamentals, Introduction to Cloud"
+        sub_title: By Cognitive Class
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
