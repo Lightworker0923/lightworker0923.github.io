@@ -55,6 +55,18 @@ about_content: | # this will include new lines to allow paragraphs
   Hey there It's Caesar here! a little bit of myself is that I am a future kind of software engineer who loves learn and share knoledgments with others to build cool stuff that wants to mark and put my grain sand in software companies to grow up as society and help others in their needs and provide them tranquility and comfort as empatethic and helper human I am. I'm still training myself on software area looking passionately to give my best
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: top-right
+        title: Teleperformance
+        sub_title: Assitant on Customer Service
+        caption: November 2020 - December 2021
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Customer Service Assistant specialized in bank credit cards databases, communication skills and English level were highly improved, I got acquainted with some data systems.
   - title: Certifications
     layout: list # Type of content section (list/text)
     content:
@@ -68,6 +80,11 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Microsoft Technology for Productivity
         sub_title: By Eduit, Conocer & Microsoft
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Explorations into Mindfulness & Job Application Essentials
+        sub_title: By IBM SkillsBuild
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -81,18 +98,6 @@ content:
           #Short overview of the project (optional)
         #description: | # this will include new lines to allow paragraphs
           #Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: top-right
-        title: Teleperformance
-        sub_title: Assitant on Customer Service
-        caption: November 2020 - December 2021
-        #link: Link to company (optional)
-        #quote: >
-          #Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Customer Service Assistant specialized in bank credit cards databases, communication skills and English level were highly improved, I got acquainted with some data systems.
   - title: Education
     layout: list
     content:
@@ -107,7 +112,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I'm a 21*yo* guy passionate on everything around getting **Knowledgment** I enjoy to draw, I went to a drawing school several years ago, I like to write about anything I'm a god editor and argumentator, I am a big fan of women, I feel better when people is around to speak about literally everything, I love to learn anything from everyone and every experience I got.
+      I'm a 21*yo* guy passionate on everything around getting **Knowledgment** I enjoy to draw, I went to a drawing school several years ago, I like to write about anything I'm a good editor and argumentator, I am a big fan of women, I feel better when people is around to speak about literally everything, I love to learn anything from everyone and every experience I got.
 
       I love co-work with people who seem like me to build cool stuff.
 
