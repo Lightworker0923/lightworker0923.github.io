@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Cesar Enrique Barboza Selix
 title: Student at Informatics Engineering
-email: hoadelete@hotmail.com
+email: cesar11_ebs@hotmail.com
 # email_title: Email (Email title override)
 phone: (+52)3313462954
 # phone_title: Phone (Phone title override)
@@ -50,7 +50,7 @@ linkedin_username: cesar-barboza-299194264
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/ME.jpg
+about_profile_image: images/Imagen.png
 about_content: | # this will include new lines to allow paragraphs
   Hey there It's Caesar here! a little bit of myself is that I am a future kind of software engineer who loves learn and share knoledgments with others to build cool stuff that wants to mark and put my grain sand in software companies to grow up as society and help others in their needs and provide them tranquility and comfort as empatethic and helper human I am. I'm still training myself on software area looking passionately to give my best
 
@@ -109,9 +109,9 @@ content:
       - layout: top-right
         title: Universidad De Guadalajara
         sub_title: Current Student at Informatics Engineering, ending on mid 2024.
-        caption: Current Schedule L-V 3PM - 9PM (till december 2023)
+        caption: Current Schedule L-V 3PM - 8PM (till december 2023)
         quote: >
-          Data managment, included Data Bases, servers, web services and a little bit of Develop on Java and Python.
+          Data managment, including Data Bases, Servers, Web services and a little bit of Develop on C++ Java and Python.
         description: | # this will include new lines to allow paragraphs
           Jr. developer on data managment mentioned previosly.
   - title: A Little More About Me
@@ -119,7 +119,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I'm a 21*yo* guy passionate on everything around getting **Knowledgment** I enjoy to draw, I went to a drawing school several years ago, I like to write about anything I'm a good editor and argumentator, I am a big fan of women, I feel better when people is around to speak about literally everything, I love to learn anything from everyone and every experience I got.
 
-      I love co-work with people who seem like me to build cool stuff.
+      I love co-work with people who seem like me mentally speaking to build cool stuff.
 
 # Footer
 footer_show_references: true
